@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Blabla</title>
+</head>
+<body>
+<h1>Heisann</h1>
+<p>Jeg kan visstnok HTML.</p>
+<p>Blir det et nytt avsnlitt nå?</p>
+<h2>dette er også en tittel</h2>
+<a href="http://www.facebook.com">Trykk for å komme til facebook<a>
+<p>bladibla</p>
+</body>
+</html>
+<img src="/home/b/Downloads/DSC_0030.JPG" alt=google.com width="404" height="400">
